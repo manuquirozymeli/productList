@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`La view de ProductList 1) Renderiza 1`] = `
+<DocumentFragment>
+  <div>
+    <p>
+      página NaN
+    </p>
+    <button>
+      siguiente
+    </button>
+  </div>
+  <div>
+    <h2>
+      Samsung
+    </h2>
+    <img
+      class=""
+      decoding="async"
+      src="http://http2.mlstatic.com/D_838903-MLA46771080799_072021-I.jpg"
+    />
+  </div>
+</DocumentFragment>
+`;
